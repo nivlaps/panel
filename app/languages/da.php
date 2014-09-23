@@ -53,7 +53,7 @@ return array(
     'dashboard' => 'Dashboard',
     'dashboard.index.pages.title' => 'Sider',
     'dashboard.index.pages.add' => 'Ny',
-    'dashboard.index.site.title' => 'Din hjemmeside\'s URL',
+    'dashboard.index.site.title' => 'Dit websites URL',
     'dashboard.index.account.title' => 'Din konto',
     'dashboard.index.account.edit' => 'Rediger',
     'dashboard.index.metatags.title' => 'Website-variable',
@@ -120,9 +120,9 @@ return array(
     'subpages.index.add.first.text' => 'Denne side har ingen undersider endnu',
     'subpages.index.add.first.button' => 'Tilføj den første side',
     'subpages.index.visible' => 'Synlige sider',
-    'subpages.index.visible.help' => 'Træk usynlige sider hertil for at sortere dem/gøre dem synlige.',
+    'subpages.index.visible.help' => 'Træk usynlige sider hertil for at sortere dem og gøre dem synlige.',
     'subpages.index.invisible' => 'Usynlige sider',
-    'subpages.index.invisible.help' => 'Træk synlige sider hertil for at afsortere dem/gøre dem usynlige.',
+    'subpages.index.invisible.help' => 'Træk synlige sider hertil for at gøre dem usynlige.',
     'subpages.error.missing' => 'Siden blev ikke fundet',
 
     // files
